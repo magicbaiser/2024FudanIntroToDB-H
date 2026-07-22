@@ -1,6 +1,6 @@
-# 数据库系统引论 (Introduction to Database Systems) - Project II: MyJQL
+# 数据库引论 (Introduction to Database Systems) - Project II: MyJQL
 
-本仓库为复旦大学《数据库系统引论》荣誉课课程的 Project II 实验实现。项目从底层物理存储、缓冲池管理、块文件管理到 B-树索引进行分层设计与构建，最终实现了一个基于类 Redis 接口的嵌入式变长键值（Key-Value）数据库系统——**MyJQL**。
+本仓库为复旦大学《数据库引论》荣誉课课程的 Project II 实验实现。项目从底层物理存储、缓冲池管理、块文件管理到 B-树索引进行分层设计与构建，最终实现了一个基于类 Redis 接口的嵌入式变长键值（Key-Value）数据库系统——**MyJQL**。
 
 ## 🛠️ 核心工具与语言
 - **开发语言**：C 语言
